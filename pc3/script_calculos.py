@@ -1,3 +1,4 @@
+#Problema 6
 import operaciones
 
 a = input("Ingrese el primer número: ")

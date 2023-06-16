@@ -1,3 +1,4 @@
+#Problema 6
 def suma(a, b):
     try:
         resultado = float(a) + float(b)
